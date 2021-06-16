@@ -1,9 +1,14 @@
 # Come-To-Succes-Prayer-reminder
 Instruction:-
+
     1.Download all the code as it is, and create folder named "startup!" and copy the following files(After running Come_To_Succes.py file:-
+    
                  a.)path.txt
+                 
                  b.)mode.txt
+                 
                  c.)mode_selector.py
+                 
 '''
 This Program is meant to help people struggling with praying salah on time.
 feel free to edit the code, but pls dont remove this comment and my social media block even if you edit.
