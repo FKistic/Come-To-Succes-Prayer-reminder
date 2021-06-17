@@ -8,6 +8,12 @@ Instruction:-
                  b.)mode.txt
                  
                  c.)mode_selector.py
+
+Important:-
+To create a start up file follow this:
+  1.)https://datatofish.com/batch-python-script/
+  2.)copy that batch file to your start up folder by pressing 'window key+r" and type 'shell:startup' and paste
+i tried to do that automaticaly but failed so you have to do it on your own sorry
                  
 '''
 This Program is meant to help people struggling with praying salah on time.
