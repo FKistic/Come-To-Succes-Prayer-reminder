@@ -1,6 +1,8 @@
 import pyautogui,pickle,time,webbrowser,getpass
 with open("path.txt", "rb" ) as mypath:
     path1 = pickle.load(mypath)
+print("Please go and pray, next command will execute after 10 mins)
+time.sleep(600)
 pyautogui.alert(text='I hope you have prayed?', title='Come To Succes', button='Yess!,i have prayed')
 cmd_path="C:/Users/username/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Command Prompt.lnk"
 user=getpass.getuser()
