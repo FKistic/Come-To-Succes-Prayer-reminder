@@ -1,1 +1,0 @@
-"C:\Users\chage with your username\AppData\Local\Programs\Python\Python39\python" "path\where\you have extracted\cometosuccues folder\mode_selector.py
