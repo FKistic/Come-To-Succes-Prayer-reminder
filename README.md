@@ -19,7 +19,11 @@ Different modes in this programs are:
 
 Requirements:-
 1.Plyer Module to be installed https://pypi.org/project/plyer/
+
 2.PlaySound Module to be Installed https://pypi.org/project/playsound/
+
+3.Pillow module to be Installed https://pypi.org/project/Pillow/
+
 
 '''
 This Program is meant to help people struggling with praying salah on time.
