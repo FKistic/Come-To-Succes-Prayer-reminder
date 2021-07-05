@@ -32,3 +32,10 @@ Please let me know if any problems are there in my program here..
 https://www.instagram.com/faraaz_kurawle/ 
 https://stackoverflow.com/users/16187613/faraaz-kurawle?tab=profile
 https://github.com/new/project
+
+Offical Tester:
+ZVclaw
+
+https://devforum.roblox.com/t/zvclaw-3d-modeler-open/600189
+
+https://twitter.com/ZvClaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
