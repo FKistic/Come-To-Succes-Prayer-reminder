@@ -5,7 +5,7 @@ This program is made to notify you about salah timings
 UPDATES:-
 1. Added GUI
 2. Removed PyautoGUI
-3. Added closeable time with gui
+3. Added closeable timer with gui
 4. added Non-closeable Timer with gui
 5. added another mode Extream mode and edited Hard mode
 6. Now Hard mode will give you full screnn notification and its a bit difficult to close or force close the program
