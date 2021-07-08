@@ -11,6 +11,9 @@ UPDATES:-
 6. Now Hard mode will give you full screen notification and its a bit difficult to close or force close the program
 7. Now inshallah you cant close the Timer in Hard mode even using Task mangager.
 
+Note:
+This program uses 30% of CPU usage, but can be used on a decent pc
+
 
 Different modes in this programs are:
 1. Easy mode - ONLY NOTIFICATIONS AND ALERTS.
