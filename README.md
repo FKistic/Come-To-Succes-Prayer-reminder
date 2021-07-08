@@ -8,7 +8,8 @@ UPDATES:-
 3. Added closeable timer with gui
 4. added Non-closeable Timer with gui
 5. added another mode Extream mode and edited Hard mode
-6. Now Hard mode will give you full screnn notification and its a bit difficult to close or force close the program
+6. Now Hard mode will give you full screen notification and its a bit difficult to close or force close the program
+7. Now inshallah you cant close the Timer in Hard mode even using Task mangager.
 
 
 Different modes in this programs are:
@@ -39,6 +40,8 @@ https://github.com/new/project
 
 Offical Tester:
 ZVclaw
+
+https://github.com/ZvClaw
 
 https://devforum.roblox.com/t/zvclaw-3d-modeler-open/600189
 
