@@ -3,7 +3,8 @@ This program is made by Faraaz Kurawle
 This program is made to notify you about salah timings
 
 UPDATES:-
-1.Bug fix(Not running the tkinter window at salah time)
+
+1.Bug fix (Not running the tkinter window at salah time)
 
 2.Minor fixes
 
