@@ -3,13 +3,9 @@ This program is made by Faraaz Kurawle
 This program is made to notify you about salah timings
 
 UPDATES:-
-1. Added GUI
-2. Removed PyautoGUI
-3. Added closeable timer with gui
-4. added Non-closeable Timer with gui
-5. added another mode Extream mode and edited Hard mode
-6. Now Hard mode will give you full screen notification and its a bit difficult to close or force close the program
-7. Now inshallah you cant close the Timer in Hard mode even using Task mangager.
+1.Bug fix(Not running the tkinter window at salah time)
+2.Minor fixes
+3.removal of unnecessary codes 
 
 Note:
 This program uses 30% of CPU usage, but can be used on a decent pc
