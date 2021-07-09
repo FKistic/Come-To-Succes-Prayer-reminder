@@ -9,9 +9,11 @@ UPDATES:-
 
 3.removal of unnecessary codes 
 
+4.Now this program consumes 25% CPU usage
+
 
 Note:
-This program uses 30% of CPU usage, but can be used on a decent pc
+This program uses 25% of CPU usage, but can be used on a decent pc
 
 
 Different modes in this programs are:
