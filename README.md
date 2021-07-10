@@ -2,6 +2,9 @@ Come-To-Succes-Prayer-reminder
 This program is made by Faraaz Kurawle
 This program is made to notify you about salah timings
 
+Note make this program run at startup please create a shortcut of mode_selector.pyw and paste it in you start up folder
+
+use window key+r and type shell:startup and press enter
 UPDATES:-
 
 1.Bug fix (Not running the tkinter window at salah time)
