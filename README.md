@@ -2,17 +2,23 @@ Come-To-Succes-Prayer-reminder
 This program is made by Faraaz Kurawle
 This program is made to notify you about salah timings
 
+Note make this program run at startup please create a shortcut of mode_selector.pyw and paste it in you start up folder
+
+use window key+r and type shell:startup and press enter
+
 UPDATES:-
-1. Added GUI
-2. Removed PyautoGUI
-3. Added closeable timer with gui
-4. added Non-closeable Timer with gui
-5. added another mode Extream mode and edited Hard mode
-6. Now Hard mode will give you full screen notification and its a bit difficult to close or force close the program
-7. Now inshallah you cant close the Timer in Hard mode even using Task mangager.
+
+1.Bug fix (Not running the tkinter window at salah time)
+
+2.Minor fixes
+
+3.removal of unnecessary codes 
+
+4.Now this program consumes 25% CPU usage
+
 
 Note:
-This program uses 30% of CPU usage, but can be used on a decent pc
+This program uses 25% of CPU usage, but can be used on a decent pc
 
 
 Different modes in this programs are:

@@ -6,8 +6,8 @@ from PIL import ImageTk,Image
 import os
 from tkinter import messagebox 
 dir_path = os.path.dirname(os.path.realpath(__file__)) #to take File path
-with open("Data\\Directory.dat",'wb') as modes:
-    pickle.dump(dir_path,modes)
+print(dir_path)
+
 
 root = Tk()
 p1 = PhotoImage(file = "icon\\bg.png")
@@ -53,7 +53,7 @@ root.configure(background=mycolor)
 
 #BG Images
 
-img2=ImageTk.PhotoImage(Image.open("icon\\bg.png"))
+img2=ImageTk.PhotoImage(Image.open(f"{dir_path}\\icon\\bg.png"))
 Label(root,image=img2).pack()
 
 #Values
@@ -82,9 +82,6 @@ mode=Radiobutton(bg="#2e3192",variable=mode_value,value=4).place(x=10,y=240)
 Button(text="Submit",command=logic,padx=10,bg="#2e3192",fg="white").place(x=50,y=270)
 Button(text="Change Prayer Time",bg="#2e3192",fg="white",command=call,padx=10).place(x=650,y=10)
 root.mainloop()
-with open("Data\\mode.dat",'rb') as modes:
-    a=pickle.load(modes)
-    print(a)
 
     
  

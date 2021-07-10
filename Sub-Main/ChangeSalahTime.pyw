@@ -133,4 +133,5 @@ Button(text="Submit",bg="#463d84",fg="white",padx=30,pady=20,command=Submit).pla
 root2.mainloop()
 with open("Data\\SalahTimes.dat",'rb') as salahtime:
     a= pickle.load(salahtime)
-print(a)
+a=str(a)
+print(int(a))
